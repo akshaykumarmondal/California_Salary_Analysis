@@ -81,7 +81,7 @@ I will be working with employee_salary dataset, and my objectives include:
 18. Find Average BasePay of All Employee Per JobTitle 
 19. Find Average BasePay of Employee Having Job Title ACCOUNTANT  
 20. Find Top 5 Most Common Jobs
-Case Study [SOLUTIONS](https://github.com/akshaykumarmondal/pandas_ecommerce_purchase/blob/main/pandas_ecommerce_purchase_analysis/start.ipynb)
+Case Study [SOLUTIONS](https://github.com/akshaykumarmondal/California_Salary_Analysis/blob/main/California%20Employee%20Salary%20Analysis/salary_analysis.ipynb)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-kumar-mondal-%F0%9F%87%AE%F0%9F%87%B3-b8aba720a/)
 
